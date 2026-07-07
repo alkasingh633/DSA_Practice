@@ -24,7 +24,8 @@ public class PrintNegativeElement {
 		
 		for(int i =0; i<n; i++) {
 			if(arr[i]<0) {
-				System.out.print("Negative value : "+ arr[i]+" ");
+				System.out.println("Negative value : ");
+				System.out.print(arr[i]+" ");
 			}
 		}
 		
