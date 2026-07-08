@@ -20,6 +20,7 @@ public class sumByInput {
 			sum += arr[i];
 		}
       System.out.println("sum = "+ sum);
-	}
+      System.out.println("sum is = "+ sum);
+      }
 
 }
