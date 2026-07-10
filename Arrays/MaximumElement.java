@@ -14,6 +14,8 @@ public class MaximumElement {
 			 
 		 }
 		 System.out.println("max = "+max);
+		 System.out.println("max is "+max);
+		 
 
 	}
 
