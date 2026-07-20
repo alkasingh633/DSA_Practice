@@ -10,6 +10,7 @@ public class ArrayofotherDatatype {
 			System.out.print(arr[i]+" ");
 			System.out.print(arr[i]+ 1 +" ");
 			System.out.print(arr[i]+ 9 +" ");
+			System.out.print(arr[i]+ 19 +" ");
 		}
 	}
 
