@@ -10,6 +10,7 @@ public class DivisibleBy3 {
 				System.out.println(3*i);
 			}
 		}
+		System.out.println("khjgh");
 		
 
 	}
