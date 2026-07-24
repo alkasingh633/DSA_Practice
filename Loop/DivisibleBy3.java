@@ -12,6 +12,7 @@ public class DivisibleBy3 {
 		}
 		System.out.println("khjgh");
 		System.out.println("khjgedfghjh");
+		System.out.println("output will be");
 		
 
 	}
